@@ -10,11 +10,11 @@
 Physics-quiz is a mini-project that can use for brush upon the fundamental oberservation and knowledge of some important physics experiments perfomed by famous scientists.
 Here we have 10 tests on the topics
 
-- To determine the specific resistance of a given wire by Carey Foster’s Bridge
+- To determine the specific resistance of a given wire by Carey Foster’s Bridge.
 - To determine the wavelength of monochromatic sodium light by using Newton's rings.
-- To verify Stefan’s Law by electrical method
-- To determine the electrochemical equivalent of copper using a Tangent galvanometer (TG)
-- To Measurement of Numerical Aperture (N.A.) of Optical Fibre
+- To verify Stefan’s Law by electrical method.
+- To determine the electrochemical equivalent of copper using a Tangent galvanometer (TG).
+- To Measure the Numerical Aperture (N.A.) of Optical Fibre.
 - To determine the energy band gap of a given semiconductor material.
 - To study the variation of magnetic field with distance along the axis of current carrying coil and then to estimate the radius of the coil.
 - To determine the specific rotation of an optical active solution by polarimeter.
